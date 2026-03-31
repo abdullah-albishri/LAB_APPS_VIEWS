@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2021
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2022
+  },
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "year": 2020
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2023
+  }
+]
